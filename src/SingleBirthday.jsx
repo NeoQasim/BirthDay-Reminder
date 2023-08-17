@@ -6,7 +6,7 @@ const SingleBirthday = ({ id, name, age, img, rem }) => {
     return (
         <>
 
-            <div className="container my-5 w-0 rounded-4 p-">
+            <div className="container my-5 w-0 rounded-4 p-2">
                 <div className="d-flex ">
                     <div className="d-flex justify-content-between">
                         <div className="img">
