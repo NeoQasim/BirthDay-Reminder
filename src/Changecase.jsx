@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+// eslint-disable-next-line no-unused-vars
+import  { React,useState } from "react";
 console.log('yellow');
 const Changecase = () => {
     const [text, settext] = useState("enter You Text here");
