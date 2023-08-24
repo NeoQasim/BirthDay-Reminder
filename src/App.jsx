@@ -1,13 +1,13 @@
-import BirthdayRemind from './BirthdayRemind';
+// import BirthdayRemind from './BirthdayRemind';
 import Changecase from './Changecase';
-// import Counter from "./Counter";
+import Counter from "./Counter";
 
 function App() {
   return (
     <>
-      {/* <Counter /> */}
+      <Counter />
       <Changecase />
-      <BirthdayRemind />
+      {/* <BirthdayRemind /> */}
     </>
   );
 }
